@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    
+}
+.box1{
+    color: rgb(9, 41, 227);
+    margin: 5px;
+    padding: 5px;
+    height: 200px;
+    background-color:var(--col1,rgb(241, 243, 245)) ;
+}
+button{
+    color: blue;
+}
